@@ -1,0 +1,4 @@
+ lesson_2_reflections.txt
+
+ Q. What happens when you initialize a repository? Why do you need to do it?
+ A. To create a new repository and get started with GIT versioning you need to initialize a GIT Repository. Also it will create a .GIT folder to track the changes. This folder is usually hidden. 
