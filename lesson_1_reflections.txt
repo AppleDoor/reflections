@@ -1,0 +1,12 @@
+Q. How did viewing a diff between two versions of a file help you see the bug that was introduced?
+A. By looking at the highlighted diff, you can easily figure out where exactly the code was changed. 
+
+Q. How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+A. If you make any mistake in code and your code stops running then you can always go back to your previous code and restore it. Now you have running code again.
+
+Q. What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+A. Maunal commit allows you to save only those versions which have logical meaning whereas automatic versionning becomes way too complecated. Because it can grow exponentially.
+Q. Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+A. Some times to implement a functionality you have to make changes in more than one file at a time; it is better to keep track of all those files which have related changes in one commit itself.
+Q. How can you use the commands git log and git diff to view the history of files?
+A. Type GIT LOG to see all the versions logged. Each version is uniquely identified by a unique identifier. you can find differences in two commits by writing command GIT DIFF followed by two different identifiers.
