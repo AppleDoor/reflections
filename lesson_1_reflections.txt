@@ -10,3 +10,5 @@ Q. Why do you think some version control systems, like Git, allow saving multipl
 A. Some times to implement a functionality you have to make changes in more than one file at a time; it is better to keep track of all those files which have related changes in one commit itself.
 Q. How can you use the commands git log and git diff to view the history of files?
 A. Type GIT LOG to see all the versions logged. Each version is uniquely identified by a unique identifier. you can find differences in two commits by writing command GIT DIFF followed by two different identifiers.
+
+
